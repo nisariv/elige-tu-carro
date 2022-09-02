@@ -1,0 +1,138 @@
+@font-face {
+      font-family: "Satoshi";
+      src: url('../fonts/Satoshi-Variable.ttf') format('truetype');
+    }
+
+body{
+	font-family: "Satoshi", sans-serif;
+	font-size: 14px;
+	color: #161616;
+	
+	}
+
+header{
+	background-color: #e8e8e8;	
+	border-radius: 40px;
+	height: 90px;
+	
+	padding-top: 15px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	
+	width: 100%;
+	margin: auto;
+	}
+#homepage{
+	position: absolute;
+	width: 100%;
+	margin: auto;
+}
+
+
+#hero{
+	background-image: url("../img/bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 30px;
+	text-align: left;
+	height: 100vh;
+	}
+
+#hero h1{
+	color: #e8e8e8;
+	font-size: 35px;
+	font-weight: 600;
+	padding-top: 50%;
+	margin-right: 250px;
+	}
+
+#hero p{
+	font-size: 30px;
+	text-align: end;
+	color: #fff;
+	padding-top: 50%;
+}
+#hero a{
+	color: #fff
+}
+#pasos{
+	margin: 20%;
+	text-align: center;
+}
+
+#pasos h2{
+	padding-bottom: 0px;
+	text-align: center;
+	font-weight: 600;
+
+}
+
+
+#marcas{
+	text-align: center;
+	padding: 100px;
+}
+
+#titulo{
+	text-align: center;
+	padding: 50px;
+}
+
+#menu-motos{
+	padding: 2% 0;
+}
+.nav-azul .navbar-nav .active .nav-link{
+	color: #92AFC8;
+}
+.nav-azul .navbar-nav .active .nav-link:hover{
+	color: #92AFC8;
+}
+.nav-azul .navbar-nav .nav-link:hover{
+	color: #92AFC8;
+}
+#motos{
+	padding: 2% 0;
+}
+
+#motos h6{
+	margin: 2% 0;
+}
+#motos img{
+	border-radius: 15px;
+	
+}
+
+#agencias{
+	padding: 2% 0;
+	padding-bottom: 6%;
+}
+
+#agencias img{
+	border-radius: 15px;
+
+}
+
+footer{
+	background: #9BB8D1;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+#footer-info{
+	padding-bottom: 50px;
+}
+#footer-info a{
+	color: #000;
+	text-decoration: none;
+}
+#footer last{
+	text-align: center;
+	
+}
+#last a{
+	color: #000;
+	text-decoration: none;
+}
+#copy{
+	padding-top: 20px;
+}
