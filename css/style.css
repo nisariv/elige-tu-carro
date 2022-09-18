@@ -109,7 +109,112 @@ header{
 }
 
 #agencias img{
+	border-radius: 15px; 
+	
+
+}
+
+#carro{
+	padding: 2% 0;
+	padding-bottom: 2%;
+} 
+#carro h3{ 
+font-weight: 600;
+}  
+#carro img{ 
+	border-radius: 15px; 
+	margin-bottom: 4% ; 
+	margin-left: 5%;
+}
+
+#info{ 
+padding: 2% 0;
+	padding-bottom: 6%; 
+
+}  
+
+#info p{ 
+text-align: justify;
+}
+#info h6{ 
+	margin: 4% 0;
+	
+}
+#autolotes{
+	padding: 2% 0;
+	padding-bottom: 6%;
+	
+	
+}
+#autolotes img{
 	border-radius: 15px;
+	margin-left: 50px
+	
+} 
+#precio{ 
+padding: 2% 0;
+	padding-bottom: 6%;
+} 
+#precio .btn{ 
+border-radius: 20px; 
+background-color: #C42628; 
+border-color: transparent;
+font-size: 20px;  
+	font-weight: 600;
+	padding: 10px 40px;
+margin-left: 32%; 
+	margin-top: 5%; 
+} 
+#precio .btn:hover{ 
+	background-color:  #631E1E; 
+	color: #fff; 
+	
+
+}
+#formulario{ 
+padding: 2% 0;
+	padding-bottom: 6%;
+background-image:url("../img/formulario.png"); 
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position:left;
+	padding-top: 100px;
+	text-align: left;
+	height: 110vh;
+}  
+#formulario p{ 
+
+text-align:left ;
+color: #FFFFFF; 
+
+}  
+
+
+#formulario h1{ 
+	color: #FFFFFF; 
+	font-weight: 600%;
+	margin-top: 20%;
+}   
+#formulario form { 
+color: #000000;
+}
+#formulario form p{ 
+color: #000000;
+}
+#formulario .btn{ 
+border-radius: 20px; 
+background-color: #C42628; 
+border-color: transparent;
+font-size: 20px;  
+	font-weight: 600;
+	padding: 10px 40px;
+	margin-top: 5%;  
+	margin-bottom: 5%;
+} 
+#formulario .btn:hover{ 
+	background-color:  #631E1E; 
+	color: #fff; 
+	
 
 }
 
